@@ -15,15 +15,10 @@ I am 22 years old. I am very polite and friendly, I know how to communicate with
 ## *Code Example*
 ```
 function booleanToString (b) {
-  
   if(b){
-    
         return "true";
-    
     }else{
-      
         return "false";
-      
     }
 }
 ```
