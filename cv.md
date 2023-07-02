@@ -1,5 +1,5 @@
 # Ekaterina Dubovik 
-<img src="https://github.com/katrindubovik/rsschool-cv/assets/137700772/3b6b6ae0-1462-4778-bced-bd0d6d02bab3" width=20% height=20%>
+<img src="https://github.com/katrindubovik/rsschool-cv/assets/137700772/3b6b6ae0-1462-4778-bced-bd0d6d02bab3" width=22% height=22%>
 
 ## *Contacts*
 - **Location:** Belarus, Minsk
